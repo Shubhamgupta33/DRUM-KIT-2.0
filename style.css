@@ -1,0 +1,36 @@
+body{
+    background-image: url(image/1262449.jpg);
+    background-size: cover;
+}
+
+.contant{
+    margin-top: 10%;
+    text-align: center;
+}
+h1{
+    font-size: 30px;
+    color: aliceblue;
+}
+
+.btn{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin: 100px 0 40px 30px;
+    background: none;
+    color:aqua;
+    font-size: 30px;
+    text-shadow: 0 0 .5rem black;
+    border: 4px #C9BC1A solid;
+    font-weight: bold;
+}
+span{
+    font-size: 15px;
+    color: #FFC600;
+}
+
+.pressed{
+    border: 3px solid black;
+    box-shadow: 0 3px 4px 0 black ;
+    opacity: 0.5;
+}
